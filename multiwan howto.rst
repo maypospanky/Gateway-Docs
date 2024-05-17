@@ -2,22 +2,7 @@
 Multi WAN
 =============================
 Multi WAN scenarios are commonly used for failover or load balancing, but combinations
-are also possible with OPNsense.
-
-.. blockdiag::
-   :desctable:
-
-   blockdiag {
-      WAN_primary -- OPNsense;
-      OPNsense -- WAN_backup;
-      internet -- WAN_primary;
-      WAN_backup -- internet;
-      internet [shape="cloud"];
-      WAN_primary [shape="cisco.modem",label=""];
-      WAN_backup [shape="cisco.modem",label=""];
-
-   }
-
+are also possible with Our Gateway name.
 
 ------------------
 Configure Failover
