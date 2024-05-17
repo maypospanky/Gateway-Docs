@@ -96,9 +96,5 @@ Subscription:  XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX (the activation key for the 
 After save, go back to the status tab and click **Check for updates**
 
 
-.. Note::
 
-    Upgrading to OPNsense BE is only possible when the installed community version number is lower than the
-    last available business edition. E.g. you can upgrade **22.7.x** to **22.10.x**, but you can not upgrade
-    **23.1** to **22.10**. You can always re-install using the installer found on the `business mirror <https://opnsense-update.deciso.com/>`__
 
