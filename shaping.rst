@@ -14,7 +14,7 @@ conform to some predetermined constraint (a contract or traffic profile).
 ------------
 Introduction
 ------------
-Traffic shaping within OPNsense is very flexible and is organized around pipes,
+Traffic shaping within Tradewinds is very flexible and is organized around pipes,
 queues and corresponding rules. The pipes define the allowed bandwidth, the queues
 can be used to set a weight within the pipe and finally the rules are used to apply
 the shaping to a certain package flow. The shaping rules are handled independently
