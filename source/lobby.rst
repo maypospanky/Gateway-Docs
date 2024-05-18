@@ -2,7 +2,7 @@
 Lobby
 ====================================
 
-.. image:: images/lobby.png
+.. image:: images/lobby.jpg
     :width: 600px
     :align: center
 
