@@ -2,7 +2,7 @@
 Lobby
 ====================================
 
-.. image:: images/architecture-building-ceiling-lamp-260931.jpg
+.. image:: images/lobby.png
     :width: 600px
     :align: center
 
