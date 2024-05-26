@@ -1,8 +1,5 @@
 .. Tradewinds documentation master file
-
-.. image:: ./images/opnsense_logo-zilver_grijs.png
-
-
+.. image:: images/TNI logo.jpg
 =============================================
 Welcome to Tradewinds Gateway Documentation!
 =============================================
